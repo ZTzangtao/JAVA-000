@@ -4,12 +4,16 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author zangtao
+ * 作业1
+ *
+ * @author Tommy
  */
 public class Hello {
 
 
     /**
+     *
+     *
      * familiarWithByteCode
      * 需要涉及基本类型，四则运行，if和for，然后自
      * 己分析一下对应的字节码
